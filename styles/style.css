@@ -34,41 +34,41 @@ ul {
 width: 984px;
 margin: 0 auto;
 }
-.lead-title,
+/* .lead-title,
 .lead-subtitle,
 .lead-caption {
     color:white;
     margin-block-start: 0;
     margin-block-end: 0;
-}
+} */
 
 .lead-title {
    
-    font-size: 96px;
+    /* font-size: 96px;
     font-weight: 900;
     line-height: 100px;
     letter-spacing: 0em;
-    text-align: center;
+    text-align: center; */
    
     
 }
 .lead-subtitle {
    
-    font-size: 30px;
+    /* font-size: 30px;
     font-weight: 400;
     line-height: 36px;
     letter-spacing: 0em;
-    text-align: center;
+    text-align: center; */
     
 }
-.lead-caption {
+/* .lead-caption {
     font-size: 10px;
    
     line-height: 14px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     padding-top: 8px;
-}
+} */
 .intro {
     width: 690px;
     margin: 92px auto 0px 148px;
