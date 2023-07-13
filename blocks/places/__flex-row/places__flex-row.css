@@ -1,0 +1,4 @@
+.places__flex-row {
+    display: flex;
+    gap: 40px;
+}
